@@ -1,0 +1,11 @@
+C:\Users\shala\source\repos\usingPlaceHolderControl\usingPlaceHolderControl\bin\Debug\usingPlaceHolderControl.exe.config
+C:\Users\shala\source\repos\usingPlaceHolderControl\usingPlaceHolderControl\bin\Debug\usingPlaceHolderControl.exe
+C:\Users\shala\source\repos\usingPlaceHolderControl\usingPlaceHolderControl\bin\Debug\usingPlaceHolderControl.pdb
+C:\Users\shala\source\repos\usingPlaceHolderControl\usingPlaceHolderControl\obj\Debug\usingPlaceHolderControl.csprojAssemblyReference.cache
+C:\Users\shala\source\repos\usingPlaceHolderControl\usingPlaceHolderControl\obj\Debug\usingPlaceHolderControl.Form1.resources
+C:\Users\shala\source\repos\usingPlaceHolderControl\usingPlaceHolderControl\obj\Debug\usingPlaceHolderControl.Properties.Resources.resources
+C:\Users\shala\source\repos\usingPlaceHolderControl\usingPlaceHolderControl\obj\Debug\usingPlaceHolderControl.csproj.GenerateResource.cache
+C:\Users\shala\source\repos\usingPlaceHolderControl\usingPlaceHolderControl\obj\Debug\usingPlaceHolderControl.exe
+C:\Users\shala\source\repos\usingPlaceHolderControl\usingPlaceHolderControl\obj\Debug\usingPlaceHolderControl.pdb
+C:\Users\shala\source\repos\usingPlaceHolderControl\usingPlaceHolderControl\bin\Debug\CustomControls.dll
+C:\Users\shala\source\repos\usingPlaceHolderControl\usingPlaceHolderControl\obj\Debug\usingPlaceHolderControl.csproj.CopyComplete
